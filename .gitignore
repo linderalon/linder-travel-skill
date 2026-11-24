@@ -1,0 +1,6 @@
+node_modules/
+*-app/
+*-app.zip
+*-app-single.html
+coast.json
+__pycache__/
